@@ -655,4 +655,4 @@ vitro* binding number and is a research tool only. See [`MODEL_CARD.md`](MODEL_C
 
 ## Licence
 
-MIT — see [`LICENSE`](LICENSE).
+MIT
