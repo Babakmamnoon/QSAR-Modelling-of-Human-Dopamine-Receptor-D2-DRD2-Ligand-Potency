@@ -3,7 +3,7 @@
 **An end-to-end, reproducible ligand-based potency model — from a live ChEMBL query to a calibrated, interpretable predictor with a stated applicability domain.**
 
 [![CI](https://github.com/Babakmamnoon/QSAR_Modeling_for_Dopamine_Receptor_D2_Inhibitors/actions/workflows/ci.yml/badge.svg)](https://github.com/Babakmamnoon/QSAR_Modeling_for_Dopamine_Receptor_D2_Inhibitors/actions/workflows/ci.yml)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Babakmamnoon/QSAR_Modeling_for_Dopamine_Receptor_D2_Inhibitors/blob/main/notebooks/DRD2_QSAR_Modeling.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Babakmamnoon/QSAR-Modelling-of-Human-Dopamine-Receptor-D2-DRD2-Ligand-Potency/blob/main/DRD2_QSAR_Modeling.ipynb)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
